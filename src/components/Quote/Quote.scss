@@ -1,0 +1,19 @@
+.quote-background {
+  background-color: #F4F6F9;
+}
+.quote-content {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  h1 {
+    color: black;
+  }
+
+  p {
+    font-size: 30px;
+  }
+}

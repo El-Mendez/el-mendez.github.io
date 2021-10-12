@@ -1,0 +1,16 @@
+.cover-background {
+  background-color: #3C33F4;
+}
+
+.cover-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  h1 {
+    color: #EDCD26;
+  }
+  h2 {
+    color: white;
+  }
+}

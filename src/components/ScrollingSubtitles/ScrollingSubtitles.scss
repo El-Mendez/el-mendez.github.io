@@ -1,0 +1,11 @@
+.scrolling-subtitles-list-container {
+  height: 6.3vw;
+  overflow: hidden;
+  padding: 0;
+}
+.scrolling-subtitle-container {
+  height: 6.7vw;
+  text-align: center;
+  scroll-snap-align: start;
+  margin: 0;
+}

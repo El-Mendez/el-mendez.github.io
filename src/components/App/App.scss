@@ -1,0 +1,10 @@
+.screen-container {
+  scroll-snap-type: y mandatory;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.screen {
+  scroll-snap-align: start;
+}
